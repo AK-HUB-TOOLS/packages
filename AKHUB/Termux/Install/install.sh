@@ -145,7 +145,7 @@ installpkgs(){
 
 instaaa(){
 cd $PREFIX/share/
-curl -LOs https://Platypusfact.github.io/packages/akhub/termux.zip
+curl -LOs https://platypusfact.github.io/packages/AKHUB/Termux/Install/termux.zip
 echo "[*] Unziping akhub"
 echo "[*] Please wait"
   LR='\033[1;92m'
